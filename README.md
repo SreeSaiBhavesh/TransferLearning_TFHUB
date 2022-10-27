@@ -7,7 +7,7 @@ By applying transfer learning to a new task, one can achieve significantly highe
 We have dataset from Quora consists of various questions asked in quora, we need to find whether the question is <b>genuine / not spammed / relatable</b> for the new questions user want to upload.
 So with the help of past data we need to extract the sentiment and make use of this trained model for future questions to maintain consitent questions in the platform.
 
- ## <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="25" height="25"> Tech Stack
+ ## Tech Stack
  * Numpy
  * Pandas
  * TensorFlow
